@@ -1,0 +1,44 @@
+    <section class="about" id="about">
+      <div class="container">
+
+        <div class="main-txt">
+          <h1 style="color: rgb(193,0,0);;">About US</h1>
+        </div>
+
+        <div class="row" style="margin-top: 50px;">
+
+          <div class="col-md-6 py-3 py-md-0">
+            <div class="card">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWApOqtCVDecE4GkZxScsCAE4dMM2utSJGRQ&s" alt="">
+            </div>
+          </div>
+
+          <div class="col-md-6 py-3 py-md-0">
+            <h2>How Fortiz Works</h2>
+            <p>At Fortiz, we believe that travel is more than just reaching a destination—it's about creating unforgettable experiences. Our dedicated team of travel experts is passionate about curating personalized itineraries that reflect your unique interests and dreams. From enchanting city escapes to breathtaking adventures off the beaten path, we handle all the details so you can focus on making memories. With our insider knowledge and commitment to exceptional service, we’re here to inspire your wanderlust and help you explore the world with confidence. Your next adventure awaits!</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+     
+    <section class="mt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="no image"  class="w-100 h-100">
+          </div>
+          <div id="about" class="col-md-6 p-md-2">
+            <h2 class="mt-5 text-center">ABOUT ME</h2>
+            <div id="abouttext">
+              <p class="mt-5"> I am Pranav P S,and I'm a recent BCA Graduate from Mahatma Gandhi University. I'm currently working as a Mearn Full Stack Developer Intern at Luminar Technolab,focusing on Learning and delivering high-quality solutions. My expertise lies in a comprehensive range of technologies including Html5, CSS3, JavaScript, TypeScript, React, Angular, Node.js, Express,Git & Github many more. With a deep understanding of these tools and frameworks, I excel in crafting dynamic and scalable full-stack applications that meet the evolving needs of modern businesses. Let me bring my wealth of experience and technical prowess to your next project.
+
+              </p>
+    
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

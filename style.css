@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+
+.form-group {
+  margin-bottom: 15px;
+}
+input[type="text"], textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical; /* Allows vertical resizing of the textarea */
+}
+textarea {
+  height: 100px; /* Set a default height for the textarea */
+}
+#up-arrow{
+  background-color: black;
+  float: right;
+}
+#up-arrow:hover a{
+  color: white;
+}
+#icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+#abouttext{
+  text-align: center;
+  text-align: justify;
+  font-size: 20px;
+}
+#abouttext2{
+  text-align: center;
+  text-align: justify;
+  font-size: 15px;
+}
+#home{
+  background-color: #001F3F;
+}
+.navbar{
+  background-color: #03346E;
+}
+#about{
+  background-color: #021526;
+}
+footer{
+  height: 140px;
+  background-color: #03346E;
+}
+#card1{
+  border: 3px solid #001F3F;
+}
+.nav-item .nav-link{
+  font-size: 16px;
+  font-weight: 550;
+  color: black;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  transition: 0.5s ease;
+}
+.nav-item .nav-link:hover{
+  background: #FD8B51;
+  color: white;
+}
+
+#contact{
+  color: #257180;
+}
+#contact2{
+  color: #78B7D0;
+}
+
+footer i{
+  color: white;
+  transition: 0.5s ease;
+}
+footer i:hover{
+    background: black;
+    color: blue;
+}
